@@ -2,7 +2,7 @@
 Welcome to my IBM Data Science Capstone Project
 
 ## Project Report
-- 🗎 [Project Report](./ds-capstone-coursera-tx)
+- 🗎 [Project Report](./ds-capstone-coursera-tx.pdf)
 
 ## Project Notebooks
 - 📓 [Data Collection Notebook](./jupyter-labs-spacex-data-collection-api.ipynb)
